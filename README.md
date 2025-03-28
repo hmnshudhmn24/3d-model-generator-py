@@ -36,6 +36,3 @@ python 3d_model_generator.py
 - Generates 3D models using Open3D's mesh creation tools.
 - Provides **procedural generation** for cube, sphere, and a basic triangular mesh.
 - Saves models as `.obj` files for use in Blender, MeshLab, and other 3D software.
-
-## License
-This project is open-source and free to use.
